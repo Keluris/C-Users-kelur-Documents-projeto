@@ -1,9 +1,1 @@
-{
-   "protocol": "ftp",
-   "host": "200.98.204.254",
-   "port": 21,
-   "user": "Itp_ftp",
-   "pass": "Kavros@2020",
-   "promptForPass": false,
-   "remote": "/"
-}
+
